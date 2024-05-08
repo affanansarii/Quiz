@@ -21,5 +21,5 @@ https://quiz-drab-beta-10.vercel.app/
 ![QuizPage](https://github.com/affanansarii/Quiz/assets/107958267/5a2b9e88-920d-4a44-87ea-8f3e93608f02)
 
 **LeaderBoardPage:-**
--In the Leaderboard Section you can see your Final Score and a button. If you click on the button you will redirect to **Home Section** 
+- In the Leaderboard Section you can see your Final Score and a button. If you click on the button you will redirect to **Home Section** 
 ![LeaderBoardPage](https://github.com/affanansarii/Quiz/assets/107958267/c8cbdeec-0708-4c3a-b8e9-809243ef2a24)
