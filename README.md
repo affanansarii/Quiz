@@ -10,7 +10,7 @@ https://quiz-drab-beta-10.vercel.app/
 - Redux
 - MUI
 
-#Quiz Appication Screenshots
+# Quiz Appication Screenshots
 
 **HomePage:-**
 - In the Home Section you have to first fill al the inputs then by clicking on **Start Quiz** you will redirected to the **Quiz Section**
