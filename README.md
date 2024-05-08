@@ -1,6 +1,6 @@
 Hey Guys,
-This is the Quiz App where you can play the quiz game. It is based on a multiple choice questions application. Where i used React, Redux and MUI Techs with the of these 3 skills i build the application.
-Here are some images of the application and link of the application where you can go through the application.
+This is the Quiz App where you can play the quiz game. It is based on a multiple choice questions application. Where i used React, Redux and MUI Techs with the help of these 3 skills i build the application.
+Here are some images of the application and link of the application where you can go through the application and enjoy it.
 
 # Deployed Link :-
 https://quiz-drab-beta-10.vercel.app/
