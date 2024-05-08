@@ -13,7 +13,7 @@ https://quiz-drab-beta-10.vercel.app/
 # Quiz Appication Screenshots
 
 **HomePage:-**
-- In the Home Section you have to first fill al the inputs then by clicking on **Start Quiz** you will redirected to the **Quiz Section**
+- In the Home Section you have to first fill all the inputs then by clicking on **Start Quiz** you will redirected to the **Quiz Section**
 ![HomePage](https://github.com/affanansarii/Quiz/assets/107958267/71d80280-b4cb-49d6-91c0-e2376a618786)
 
 **QuizPage:-**
